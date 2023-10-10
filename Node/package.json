@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-server.js",
+  "scripts": {
+    "start": "node express-server.js",
+    "backend": "nodemon express-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

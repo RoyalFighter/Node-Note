@@ -1,0 +1,13 @@
+
+
+// go too network to see status code to find which 
+error is ocuring in code
+
+//if on response cannot post then its url mistake hence check url
+//response if its  not sucess then its is called validate error
+for eg in our code if we define input feild as texxt for number and passed number in form filling process then we get that error 
+
+//if api is not showing in this case you can console log data
+//suggestion
+dont create many input feild so to enconter this
+create only one use state
